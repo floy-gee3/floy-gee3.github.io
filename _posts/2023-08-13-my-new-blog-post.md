@@ -53,7 +53,7 @@ As can be seen on the devices, the loopback interface lo0.0 has now been deleted
 
 Now let’s delete the residual configuration – i.e. the VRF:
 
-[PYTHON CODE FOR DELETING ROUTING INSTANCE](https://github.com/floy-gee3/floy-gee3.github.io/blob/main/_posts/delete-loopback.py)
+[PYTHON CODE FOR DELETING ROUTING INSTANCE](https://github.com/floy-gee3/floy-gee3.github.io/blob/main/_posts/delete-vrf.py)
 
 Below is a screenshot of the script as it was being run:
 
