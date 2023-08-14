@@ -11,7 +11,7 @@ The configurations were applied on two Juniper SRX devices, vSRX-1 and vSRX-2.
 
 **1. Configuring a loopback interface lo0.0 and a VRF called care-givers into which the loopback interface lo0.0 is then placed:**
 
-**PYTHON CODE WILL GO HERE**
+[PYTHON CODE WILL GO HERE](www.google.com)
 
 This script demonstrates how to configure a VRF and a loopback interface on a Juniper device using Nornir's capabilities. XML was used as the payload type.
 First let’s look at the devices before the script was applied. The screenshots below show that there was no routing-instance configured on either device and similarly, no lo0.0 interface.
@@ -37,7 +37,7 @@ The following shows the devices after the config was applied. The VRF and interf
 
 Now that the script for applying the config has been successfully applied, I made another script for deleting the loopback interface:
 
-**PYTHON CODE FOR DELETING LOOPBACK WILL GO HERE:**
+[PYTHON CODE FOR DELETING LOOPBACK WILL GO HERE](www.google.com)
 
 Below is a screenshot showing the script as it was run:
 
@@ -53,7 +53,7 @@ As can be seen on the devices, the loopback interface lo0.0 has now been deleted
 
 Now let’s delete the residual configuration – i.e. the VRF:
 
-**PYTHON CODE FOR DELETING VRF WILL GO HERE:**
+[PYTHON CODE FOR DELETING VRF WILL GO HERE](www.google.com)
 
 Below is a screenshot of the script as it was being run:
 
