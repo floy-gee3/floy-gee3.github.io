@@ -16,9 +16,9 @@ The configurations were applied on two Juniper SRX devices, vSRX-1 and vSRX-2.
 This script demonstrates how to configure a VRF and a loopback interface on a Juniper device using Nornir's capabilities. XML was used as the payload type.
 First let’s look at the devices before the script was applied. The screenshots below show that there was no routing-instance configured on either device and similarly, no lo0.0 interface.
 
-![image](https://github.com/floy-gee3/floy-gee3.github.io/_posts/assets/26433845/9d9f7ca3-4538-4909-854f-f24089435612)
+![image](https://github.com/floy-gee3/floy-gee3.github.io/assets/26433845/9d9f7ca3-4538-4909-854f-f24089435612)
 
-![image](https://github.com/floy-gee3/floy-gee3.github.io/_posts/assets/26433845/59d5edb5-635b-454b-8ad3-be83779e28f7)
+![image](https://github.com/floy-gee3/floy-gee3.github.io/assets/26433845/59d5edb5-635b-454b-8ad3-be83779e28f7)
 
 **Results**
 
