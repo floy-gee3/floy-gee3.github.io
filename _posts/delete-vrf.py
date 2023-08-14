@@ -20,7 +20,7 @@ with open('hosts.yml', 'r') as file:
             <configuration>
                 <routing-instances>
                     <instance operation="delete">
-                        <name>care-givers</name>
+                        <name>{hosts_data[host].get('routing_instance')}</name>
                     </instance>
                 </routing-instances>
             </configuration>
