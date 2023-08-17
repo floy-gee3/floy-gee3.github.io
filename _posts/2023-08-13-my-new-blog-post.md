@@ -20,6 +20,10 @@ First let’s look at the devices before the script was applied. The screenshots
 
 ![image](https://github.com/floy-gee3/floy-gee3.github.io/assets/26433845/59d5edb5-635b-454b-8ad3-be83779e28f7)
 
+<img width="551" alt="image" src="https://github.com/floy-gee3/floy-gee3.github.io/assets/26433845/a2bfad31-89a3-4a66-ab97-37a4ad58fce2">
+
+
+
 **Results**
 
 I've executed my Python script on actual network devices and captured screenshots of the results. Below are the screenshots that demonstrate the successful outcomes of my automation efforts:
